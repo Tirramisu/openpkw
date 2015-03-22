@@ -327,27 +327,35 @@ w sposób wskazany przez okręgową komisję wyborczą, poprawność danych aryt
 przez komisję kopii protokołu głosowania.  
 **W przypadku zarządzenia przez Państwową Komisję Wyborczą stosowania systemu informatycznego pełnomocnik wprowadza 
 do systemu wszystkie dane z kopii protokołu głosowania przekazanej przez komisję, która nie korzystała ze wspomagania 
-informatycznego lub nie miała możliwości transmisji danych liczbowych. Jeżeli po wprowadzeniu przez pełnomocnika danych 
-system sygnalizuje błędy lub ostrzeżenia, należy wydrukować zestawienie błędów, które pełnomocnik przekazuje 
-przewodniczącemu komisji obwodowej (wraz z nienaruszoną kopertą zawierającą protokół głosowania). Przewodniczący 
-niezwłocznie zwołuje posiedzenie komisji w celu usunięcia błędów. Komisja w tym celu stosuje odpowiednio pkt 69 ppkt 2.  
+informatycznego lub nie miała możliwości transmisji danych liczbowych.**  
+
+Jeżeli po wprowadzeniu przez pełnomocnika danych system sygnalizuje błędy lub ostrzeżenia, należy wydrukować zestawienie błędów, które pełnomocnik przekazuje przewodniczącemu komisji obwodowej (wraz z nienaruszoną kopertą zawierającą protokół głosowania). Przewodniczący niezwłocznie zwołuje posiedzenie komisji w celu usunięcia błędów.  
+
+
 Jeżeli system sygnalizuje jedynie ostrzeżenia, należy wydrukować raport ostrzeżeń, który pełnomocnik przekazuje 
 przewodniczącemu komisji obwodowej (wraz z nienaruszoną kopertą zawierającą protokół głosowania). Do dalszego postępowania 
 stosuje się odpowiednio pkt 9 podpunkty 1-4.  
+
+
 **O sposobie sprostowania niezgodności arytmetycznych komisja obwodowa zawiadamia telefonicznie pełnomocnika okręgowej 
 komisji wyborczej i po uzyskaniu potwierdzenia, że zostały one usunięte, poprawia protokół. Poprawienie protokołu 
 przez komisję obwodową może polegać na sporządzeniu nowego protokołu głosowania w obwodzie lub naniesieniu 
 na już sporządzony protokół poprawek i ich parafowaniu przez członków obwodowej komisji wyborczej.**   
+
 Protokół zawierający błędy stanowi dokument z głosowania. Jak wskazano w pkt 72, na pierwszej stronie protokołu należy 
 uczynić adnotację „WADLIWY. PODLEGAŁ SPROSTOWANIU”. Adnotację tę opatrują podpisami wszyscy członkowie komisji obecni 
 przy tej czynności. Adnotację opatruje się pieczęcią.  
 Poprawiony protokół komisja przekazuje w sposób określony wyżej, wraz z jego kopią, pełnomocnikowi okręgowej 
 komisji wyborczej. Po otrzymaniu poprawionej kopii protokołu pełnomocnik sprawdza, czy błędy usunięto, i potwierdza 
 poprawność ustalonych wyników.  
+
+
 **Jeżeli system nie sygnalizował niezgodności arytmetycznych lub zostały one usunięte, pełnomocnik przesyła dane 
 z protokołu głosowania do okręgowej komisji wyborczej, a przewodniczący komisji lub jego zastępca uwierzytelnia 
 kodem jednorazowym zgodność danych wprowadzonych do systemu informatycznego z danymi zawartymi w protokole przyjętym 
 przez komisję.** Następnie pełnomocnik dokonuje zapisu danych z protokołu na nośniku elektronicznym.   
+
+
 Pełnomocnik drukuje kopię protokołu głosowania i raport ostrzeżeń (jeżeli ostrzeżenia występują), które dopina do koperty 
 z oryginałem protokołu i wraz z nimi oraz nośnikiem, na którym zapisano dane z protokołu, przekazuje okręgowej 
 komisji wyborczej. Kopia protokołu wydrukowana z systemu informatycznego powinna dodatkowo zostać opatrzona, 
