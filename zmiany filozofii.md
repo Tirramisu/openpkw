@@ -1,3 +1,6 @@
+Sporządzone na podstawie Wytycznych PKW dla Obwodowych Komisji Wyborczych. 
+(Uchwała PKW z 09.03.2015 r.)
+
 # Zmiany w organizacji obsługi informatycznej oraz funkcjonowaniu programów informatycznych wspierających przeprowadzenie wyborów prezydenckich w 2015 r. (10 maja/24maja).  
 
 Zmiany zauważone na podstawie analizy Uchwały PKW z dnia 9 marca 2015 w sprawie wytycznych dla obwodowych komisji wyborczych 
@@ -19,8 +22,7 @@ komisariatu Policji o zapewnienie koniecznej pomocy (art. 49 § 3 Kodeksu wyborc
 
 # 2. Członkowie komisji.  
 Członkowie komisji nie mogą udzielać wyborcom pomocy w głosowaniu, z wyjątkiem pomocy udzielanej wyborcom niepełnosprawnym 
-w zakresie, o którym mowa w art. 37c § 2 Kodeksu wyborczego, oraz polegającej na udzielaniu wyborcom informacji, 
-o których mowa w pkt 21 i 27.  
+w zakresie, o którym mowa w art. 37c § 2 Kodeksu wyborczego, oraz polegającej na udzielaniu wyborcom informacji o warunkach ważności głosu.  
   
 # 3. Mężowie zaufania.  
 Mężowie zaufania mają prawo obserwować wszystkie czynności obwodowej komisji wyborczej, zarówno przed rozpoczęciem 
@@ -83,6 +85,7 @@ o tym wyborców.
 **Niedopuszczalne jest dokonywanie przez komisję jakichkolwiek skreśleń i adnotacji na kartach do głosowania.**  
 
 ## 5.4.	– Głosowanie korespondencyjne.  
+Baaaaaaaardzo skomplikowana procedura ;)  
 
 ## 5.5.	 – Dopisanie wyborcy przez komisje do spisu.  
 Uzupełnić zasady.  
@@ -99,6 +102,7 @@ Komisja nie jest uprawniona do dokonywania jakichkolwiek innych zmian w spisie w
 
 ## 5.9.	 
 – Wynoszenie kart do głosowania poza lokal wyborczy.  
+Członkowie mają obowiązek pilnowania aby wyborczy nie wynosili z lokalu kart do głosowania. Każdy przypadek powinien być udokumentowany odpowiednim zapisem w protokole.  
 
 ## 5.10. 	
 - Wrzucanie do urny innych przedmiotów niż karty do głosowania.  
@@ -108,19 +112,22 @@ Komisja nie jest uprawniona do dokonywania jakichkolwiek innych zmian w spisie w
 
 ## 5.12.  
 - 60% otrzymanych kart.  
+Z chwilą wydania 60% kart do głosowania Komisja ma obowiązek zawiadomienia gminy o tym fakcie.
 
 ## 5.13.  
 - 80% otrzymanych kart.  
+Z chwilą wydania 80% kart do głosowania gmina "uruchamia" rezerwę kart i dostarcza karty do lokalu.
 
 ## 5.14.  
 - Przepełnienie urny wyborczej/ „uruchomienie” drugiej urny.  
+Z chwilą przepełnienia urny musi zostać dostawiona druga urna. Obie urny stoją zaplombowane do chwili ukończenia głosowania.  
 
 ## 5.15.  
 - Przerwy w głosowaniu (wypadki losowe, katastrofy, itp.)  
 
 ## 5.16.  
 - Zakończenie głosowania. Godzina 18:00 / godz. 21:00.  
-
+W obwodach odrębnych (zamkniętych) gdy wszyscy uprawnieni zagłosują można zakończyć głosowanie i zamknąć lokal, jednak nie wcześniej niż 0 18:00. Wyniki głosowania (wywieszenie protokołu) podaje sie jednak nie wcześniej niż o godz. 21:00  
 
 # 6.Ustalenie wyników głosowania.  
 
@@ -182,7 +189,7 @@ Pozostałe karty to karty ważne i wpisać w pkt. 11 protokołu.
 Pkt. 10 + pkt.11 = pkt. 9  
 
 ## 7.11.	 
-Głosy nieważne (znak x przy więcej niż jednym kandydacie lub brak znaku x) pkt. 12.  
+Głosy nieważne (znak x przy więcej niż jednym kandydacie lub brak znaku x lub znak x przy skreślonym kandydacie) pkt. 12.  
 
 ## 7.12.	 
 Głosy ważne. Pkt. 13 protokołu  
@@ -237,6 +244,9 @@ zmian w zakresie sygnalizowanym raportem ostrzeżeń;**
 
 ## 9.4.	 
 **jeśli system informatyczny nie sygnalizował błędów lub zostały one usunięte, drukowany jest protokół głosowania.**
+
+Z Wytycznych dla Okręgowych KW wynika, że na protokole drukowany jest barkod, który dokumentuje JEDYNIE zwartość protokołu. Sprawdane jest jedynie czy na każdej stronie protokołu jest ten sam barkod. Każda zmiana na protokole generuje nowy barkod i wymaga wydrukowania CAŁEGO protokołu na nowo. Nie można "podmieniać" tylko jednej kartki.  
+
 Awaria drukarki lub inne przeszkody w wydrukowaniu protokołu nie zwalniają komisji posiadającej obsługę informatyczną 
 z obowiązku wprowadzenia do systemu informatycznego danych z protokołu głosowania;  
 
