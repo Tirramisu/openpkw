@@ -39,6 +39,7 @@ liczby kart do głosowania wydanych wyborcom;
 **2.	W przypadku gdy wymienione niżej warunki nie zostały spełnione obwodowa komisja wyborcza dołącza do protokołu wydrukowany raport ostrzeżeń podpisany przez wszystkie osoby wchodzące w skład komisji uczestniczące w ustalaniu wyników głosowania. Dotyczy to następujących warunków:**  
 
 1)	liczba wyborców w obwodzie stałym, bez osób dopisanych do spisu na podstawie zaświadczenia o prawie do głosowania, nie powinna być większa od 110% lub mniejsza od 90% szacowanej liczby wyborców (liczby wyborców ustalonych w meldunku wyborczym);  
+
 2)	liczba kart do głosowania wyjętych z kopert na kartę do głosowania nie powinna być większa od liczby kopert na kartę do głosowania wrzuconych do urny;  
 
 3)	liczba otrzymanych kart do głosowania w obwodach stałych nie powinna odbiegać o więcej niż 10 punktów procentowych od ustalonego dla obwodu nakładu kart do głosowania;  
