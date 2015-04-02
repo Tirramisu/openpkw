@@ -10,8 +10,10 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
 
 # Ad. A.
 * A.1. zbieranie i przetwarzanie danych przed wyborczych zgodnie z przedstawionym graficznie (draw.io) procesem. (/// link po umieszczeniu grafiki draw.io na githubie)
-* A.2. odebranie danych w noc wyborczą z komisji obwodowych, przetworzenie i przygotowanie do pobrania przez komisje wyborcze wyższego rzędu, przyjęcie danych z komisji wyższego rzędu, przetworzenie i przygotowanie danych dla PKW.
-* A.3. wizualizacja bieżącej akcji wyborczej
+* A.2. odebranie danych w noc wyborczą z komisji obwodowych, przetworzenie i przygotowanie do pobrania przez komisje wyborcze wyższego rzędu, przyjęcie danych w komisji wyższego rzędu, przetworzenie i przygotowanie danych dla PKW.
+   * A.2.1. Komisje wyższego rzędu generują protokół na podstawie danych z Obwodowych Komisji.
+   * A.2.2. PKW generuje protokół zbiorczy na podstawie protokołów Okręgowych Komisji.
+* A.3. stała/aktualna wizualizacja bieżącej akcji wyborczej
 * A.4. stały dostęp do danych archiwalnych (zakończone akcje wyborcze i ich wizualizacje)
 
 # Ad. B.
@@ -30,11 +32,15 @@ i na nieco innych zasadach:
 * B.1.1. oprogramowanie dla local host zgodne z [propozycją funkcjonalności] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/oper_kalkulator.md)
     * B.1.1.1. pobieranie plików *.klk
     * B.1.1.2. generowanie/pobieranie certyfikatów, loginów, haseł.
+    * B.1.1.3. wpisanie danych do formularza / walidacja poprawności
+    * B.1.1.4. wysłanie poprawnego protokołu (zapisanie na zewnętrznych nośnikach)
+    * B.1.1.5. wydruk protokołu
 
 * B.1.2. oprogramowanie serwerowe
      * B.1.2.1. odbiór danych w noc wyborczą z Komisji Wyborczych
      * B.1.2.2. przetworzenie danych wyborczych i udostępnienie ich do dalszej pracy komisjom wyższego rzędu
-     * B.1.2.3. prztworzenie danych wyborczych i udostępnienie ich do A.2. Platforma Wyborcza.
+         
+     * B.1.2.3. przetworzenie danych wyborczych i udostępnienie ich do A.2. Platforma Wyborcza.
 
 # Ad. B.2.
    * B.2.1. generowanie, certyfikatów, loginów, haseł, haseł jednorazowych
