@@ -17,8 +17,11 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
 # Ad. B.
 
 * B.1. program do instalacji lokalnej (np. maszyny bez dostępu do internetu itp.)
+    * B.1.1. pobieranie plików *.klk
+    * B.1.2. generowanie/pobieranie certyfikatów, loginów, haseł.
 * B.2. strona HTML (rozbudowany obecny prototyp kalkulatora w html) frontend?  
 oba punkty zgodne z przedstawionym graficznie (draw.io) [procesem] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa%2520komisja%2520wyborcza.xml)  
+    * B.2.1. generowanie, certyfikatów, loginów, haseł, haseł jednorazowych
 
 i na nieco innych zasadach:  
 
