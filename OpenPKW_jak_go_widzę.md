@@ -9,7 +9,7 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
 
 
 # Ad. A.
-* A.1. zbieranie i przetwarzanie danych przed wyborczych zgodnie z przedstawionym graficznie (draw.io) [procesem]. (https://raw.githubusercontent.com/openpkw/openpkw/master/dokumentacja/procesy/przed_wyborami.xml)
+* A.1. zbieranie i przetwarzanie danych przed wyborczych zgodnie z przedstawionym graficznie (draw.io) [procesem] (https://raw.githubusercontent.com/openpkw/openpkw/master/dokumentacja/procesy/przed_wyborami.xml).
 * A.2. odebranie danych w noc wyborczą z komisji obwodowych, przetworzenie i przygotowanie do pobrania przez komisje wyborcze wyższego rzędu, przyjęcie danych w komisji wyższego rzędu, przetworzenie i przygotowanie danych dla PKW.
    * A.2.1. Komisje wyższego rzędu generują protokół na podstawie danych z Obwodowych Komisji.
    * A.2.2. PKW generuje protokół zbiorczy na podstawie protokołów Okręgowych Komisji.
