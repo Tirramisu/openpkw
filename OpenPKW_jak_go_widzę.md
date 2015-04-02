@@ -9,7 +9,7 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
 
 
 # Ad. A.
-* A.1. zbieranie i przetwarzanie danych przed wyborczych
+* A.1. zbieranie i przetwarzanie danych przed wyborczych zgodnie z przedstawionym graficznie procesem.
 * A.2. odebranie danych w noc wyborczą z komisji obwodowych, przetworzenie i przygotowanie do pobrania przez komisje wyborcze wyższego rzędu, przyjęcie danycb z komisji wyższego rzędu, przetworzenie i przygotowanie danych dla PKW.
 * A.3. wizualizacja bieżącej akcji wyborczej
 * A.2. stały dostęp do danych archiwalnych (zakończone akcje wyborcze i ich wizualizacje)
