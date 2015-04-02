@@ -10,9 +10,9 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
 
 # Ad. A.
 * A.1. zbieranie i przetwarzanie danych przed wyborczych zgodnie z przedstawionym graficznie (draw.io) procesem. (/// link po umieszczeniu grafiki draw.io na githubie)
-* A.2. odebranie danych w noc wyborczą z komisji obwodowych, przetworzenie i przygotowanie do pobrania przez komisje wyborcze wyższego rzędu, przyjęcie danycb z komisji wyższego rzędu, przetworzenie i przygotowanie danych dla PKW.
+* A.2. odebranie danych w noc wyborczą z komisji obwodowych, przetworzenie i przygotowanie do pobrania przez komisje wyborcze wyższego rzędu, przyjęcie danych z komisji wyższego rzędu, przetworzenie i przygotowanie danych dla PKW.
 * A.3. wizualizacja bieżącej akcji wyborczej
-* A.2. stały dostęp do danych archiwalnych (zakończone akcje wyborcze i ich wizualizacje)
+* A.4. stały dostęp do danych archiwalnych (zakończone akcje wyborcze i ich wizualizacje)
 
 # Ad. B.
 
@@ -22,7 +22,7 @@ oba punkty zgodne z przedstawionym graficznie (draw.io) [procesem] (https://www.
 
 i na nieco innych zasadach:  
 
-* B.3. oprogramowanie mobilne (np. wykorzystywane przez różnorodne organizacjie do sprawdzania poprawności wyborów)
+* B.3. oprogramowanie mobilne (np. wykorzystywane przez różnorodne organizacje do sprawdzania poprawności wyborów)
 
 # Ad. B.1. 
 
@@ -30,6 +30,7 @@ i na nieco innych zasadach:
 * B.1.2. oprogramowanie serwerowe
      * B.1.2.1. odbiór danych w noc wyborczą z Komisji Wyborczych
      * B.1.2.3. przetworzenie danych wyborczych i udostępnienie ich do dalszej pracy komisjom wyższego rzędu
+     * B.1.2.3. prztworzenie danych wyborczych i udostępnienie ich do A.2. Platforma Wyborcza.
 
 # Ad. B2.
 
@@ -39,4 +40,6 @@ i na nieco innych zasadach:
 
 * B.3.1. program mobilny (co najmniej Android i IOS) umożliwiający szybkie przekazanie cześci danych liczbowych z protokołu.
     * B.3.1.1. implementacja możliwości przesłania danych SMS ze starszych modeli telefonów.
+* B.3.2. oprogramowanie serwerowe 
+    * przetworzenie danych, ich agregacja i udostępnienie danych zbiorczych/wizualizacja.
 
