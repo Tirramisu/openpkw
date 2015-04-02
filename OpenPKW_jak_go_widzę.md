@@ -17,11 +17,9 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
 # Ad. B.
 
 * B.1. program do instalacji lokalnej (np. maszyny bez dostępu do internetu itp.)
-    * B.1.1. pobieranie plików *.klk
-    * B.1.2. generowanie/pobieranie certyfikatów, loginów, haseł.
+
 * B.2. strona HTML (rozbudowany obecny prototyp kalkulatora w html) frontend?  
 oba punkty zgodne z przedstawionym graficznie (draw.io) [procesem] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa%2520komisja%2520wyborcza.xml)  
-    * B.2.1. generowanie, certyfikatów, loginów, haseł, haseł jednorazowych
 
 i na nieco innych zasadach:  
 
@@ -30,16 +28,19 @@ i na nieco innych zasadach:
 # Ad. B.1. 
 
 * B.1.1. oprogramowanie dla local host zgodne z [propozycją funkcjonalności] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/oper_kalkulator.md)
+    * B.1.1.1. pobieranie plików *.klk
+    * B.1.1.2. generowanie/pobieranie certyfikatów, loginów, haseł.
+
 * B.1.2. oprogramowanie serwerowe
      * B.1.2.1. odbiór danych w noc wyborczą z Komisji Wyborczych
-     * B.1.2.3. przetworzenie danych wyborczych i udostępnienie ich do dalszej pracy komisjom wyższego rzędu
+     * B.1.2.2. przetworzenie danych wyborczych i udostępnienie ich do dalszej pracy komisjom wyższego rzędu
      * B.1.2.3. prztworzenie danych wyborczych i udostępnienie ich do A.2. Platforma Wyborcza.
 
-# Ad. B2.
-
-* B.2.1. odbiór danych w noc wyborczą z Komisji Wyborczych. (symultanicznie z B.1.2.1.)
+# Ad. B.2.
+   * B.2.1. generowanie, certyfikatów, loginów, haseł, haseł jednorazowych
+   * B.2.2. odbiór danych w noc wyborczą z Komisji Wyborczych. (symultanicznie z B.1.2.1.)
  
-# Ad.B3.
+# Ad.B.3.
 
 * B.3.1. program mobilny (co najmniej Android i IOS) umożliwiający szybkie przekazanie cześci danych liczbowych z protokołu.
     * B.3.1.1. implementacja możliwości przesłania danych SMS ze starszych modeli telefonów.
