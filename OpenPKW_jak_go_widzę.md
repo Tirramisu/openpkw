@@ -9,7 +9,7 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
 
 
 # Ad. A.
-* A.1. zbieranie i przetwarzanie danych przed wyborczych zgodnie z przedstawionym graficznie procesem.
+* A.1. zbieranie i przetwarzanie danych przed wyborczych zgodnie z przedstawionym graficznie procesem. (/// link po umieszczeniu grafiki draw.io na githubie)
 * A.2. odebranie danych w noc wyborczą z komisji obwodowych, przetworzenie i przygotowanie do pobrania przez komisje wyborcze wyższego rzędu, przyjęcie danycb z komisji wyższego rzędu, przetworzenie i przygotowanie danych dla PKW.
 * A.3. wizualizacja bieżącej akcji wyborczej
 * A.2. stały dostęp do danych archiwalnych (zakończone akcje wyborcze i ich wizualizacje)
@@ -18,7 +18,7 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
 
 * B.1. program do instalacji lokalnej (np. maszyny bez dostępu do internetu itp.)
 * B.2. strona HTML (rozbudowany obecny prototyp kalkulatora w html) frontend?  
-oba punkty zgodne z przedstawionym graficznie [procesem] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/procesy/Obwodowa%20komisja%20wyborcza.xml)  
+oba punkty zgodne z przedstawionym graficznie (draw.io) [procesem] (https://raw.githubusercontent.com/openpkw/openpkw/master/dokumentacja/procesy/Obwodowa%20komisja%20wyborcza.xml)  
 
 i na nieco innych zasadach:  
 
