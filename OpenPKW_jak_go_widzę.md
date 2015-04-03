@@ -1,5 +1,11 @@
 #openPKW
 
+Założenie podstawowe - cały system **MUSI** być zgodny z odpowiednimi przepisami polskiego prawa wyborczego:
+* Kodeks Wyborczy  
+* Aktualnymi Uchwałami PKW  
+*  
+
+
 Cały system powinien składać się z 2 głównych modułów/działów/zadań:
 
 # A. Platforma Wyborcza  
@@ -38,8 +44,8 @@ i na nieco innych zasadach:
     * B.1.1.5. wydruk protokołu - wzory protokołów prezydent 2015: [**Obwodowy**] (http://pkw.gov.pl/g2/oryginal/2015_01/6d4a07c19783328b29a9e28e7be64ba3.pdf) ; [**Okręgowy**] (http://pkw.gov.pl/g2/oryginal/2015_01/0451db43c39dee8e139fd75615fe1af5.pdf) ; [**PKW**] (http://pkw.gov.pl/g2/oryginal/2015_01/b4303675cc97bcc62959ee934c899a50.pdf).
     * B.1.1.6. problem "zwartości" wydrukowanego protokołu 
       * B.1.1.6.1. barkod drukowany na dole każdej  strony - taki sam w całym wydruku [**przykład**] (https://op.openpkw.pl/attachments/6/barkod_przyklad.jpg)
-      * B.1.1.6.2. QRkod
-      * B.1.1.6.3. kody jednorazowe
+      * B.1.1.6.2. QRkod - przyszłościowa [**propozycja**] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza/blob/master/brainstorming.md) na razie niezgodna z PKW.
+      * B.1.1.6.3. kody jednorazowe ??????? pierwsza informacja pojawia się w Uchwale PKW z 9 marca 2015 patrz [**omówienie**] (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
 
 * B.1.2. oprogramowanie serwerowe
      * B.1.2.1. odbiór danych w noc wyborczą z Komisji Wyborczych
