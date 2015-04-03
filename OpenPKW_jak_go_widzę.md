@@ -32,9 +32,9 @@ i na nieco innych zasadach:
 * B.1.1. oprogramowanie dla local host zgodne z [propozycją funkcjonalności] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/oper_kalkulator.md)
     * B.1.1.1. pobieranie plików *.klk
     * B.1.1.2. generowanie/pobieranie certyfikatów, loginów, haseł.
-    * B.1.1.3. wpisanie danych do formularza / walidacja poprawności
-    * B.1.1.4. wysłanie poprawnego protokołu (zapisanie na zewnętrznych nośnikach)
-    * B.1.1.5. wydruk protokołu
+    * B.1.1.3. wpisanie danych do formularza / walidacja poprawności - walidacja [prezydent2015] (https://github.com/Tirramisu/openpkw/blob/master/walidacja_2015_prezydent.md) ; walidacje [dotychczasowe] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_podstawy.md)
+    * B.1.1.4. wysłanie poprawnego protokołu / zapisanie na zewnętrznych nośnikach
+    * B.1.1.5. wydruk protokołu - wzory protokołów prezydent 2015: [Obwodowy] (http://pkw.gov.pl/g2/oryginal/2015_01/6d4a07c19783328b29a9e28e7be64ba3.pdf) ; [Okręgowy] (http://pkw.gov.pl/g2/oryginal/2015_01/0451db43c39dee8e139fd75615fe1af5.pdf) ; [PKW] (http://pkw.gov.pl/g2/oryginal/2015_01/b4303675cc97bcc62959ee934c899a50.pdf).
 
 * B.1.2. oprogramowanie serwerowe
      * B.1.2.1. odbiór danych w noc wyborczą z Komisji Wyborczych
