@@ -14,7 +14,7 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
    * A.2.1. Komisje wyższego rzędu generują protokół na podstawie danych z Obwodowych Komisji.
    * A.2.2. PKW generuje protokół zbiorczy na podstawie protokołów Okręgowych Komisji.
 * A.3. stała/aktualna wizualizacja bieżącej akcji wyborczej
-* A.4. stały dostęp do danych archiwalnych (zakończone akcje wyborcze i ich wizualizacje)
+* A.4. stały dostęp do danych archiwalnych (zakończone akcje wyborcze i ich wizualizacje). Struktura bazy [**archiwalnej PKW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/bazaKBW.md)
 
 # Ad. B.
 
@@ -31,13 +31,13 @@ i na nieco innych zasadach:
 # Ad. B.1. 
 
 * B.1.1. oprogramowanie dla local host zgodne z [**propozycją funkcjonalności**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/oper_kalkulator.md)
-    * B.1.1.1. pobieranie plików *.klk
+    * B.1.1.1. pobieranie plików *.klk [**przykład plików**] (https://github.com/openpkw/openpkw/tree/master/pliki%20klk)
     * B.1.1.2. generowanie/pobieranie certyfikatów, loginów, haseł, kodów.
     * B.1.1.3. wpisanie danych do formularza / walidacja poprawności - walidacja [**prezydent2015**] (https://github.com/Tirramisu/openpkw/blob/master/walidacja_2015_prezydent.md) ; walidacje [**dotychczasowe**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_podstawy.md)
     * B.1.1.4. wysłanie poprawnego protokołu / zapisanie na zewnętrznych nośnikach
     * B.1.1.5. wydruk protokołu - wzory protokołów prezydent 2015: [**Obwodowy**] (http://pkw.gov.pl/g2/oryginal/2015_01/6d4a07c19783328b29a9e28e7be64ba3.pdf) ; [**Okręgowy**] (http://pkw.gov.pl/g2/oryginal/2015_01/0451db43c39dee8e139fd75615fe1af5.pdf) ; [**PKW**] (http://pkw.gov.pl/g2/oryginal/2015_01/b4303675cc97bcc62959ee934c899a50.pdf).
     * B.1.1.6. problem "zwartości" wydrukowanego protokołu 
-      * B.1.1.6.1. barkody
+      * B.1.1.6.1. barkod drukowany na dole każdej  strony - taki sam w całym wydruku [**przykład**] (https://op.openpkw.pl/attachments/6/barkod_przyklad.jpg)
       * B.1.1.6.2. QRkod
       * B.1.1.6.3. kody jednorazowe
 
