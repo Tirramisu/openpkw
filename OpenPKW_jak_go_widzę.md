@@ -15,7 +15,8 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
 
 
 # Ad. A.
-* A.1. zbieranie i przetwarzanie danych przed wyborczych zgodnie z przedstawionym graficznie (draw.io) [**procesem**] (https://raw.githubusercontent.com/openpkw/openpkw/master/dokumentacja/procesy/przed_wyborami.xml).
+* A.1. zbieranie i przetwarzanie danych przed wyborczych zgodnie z przedstawionym graficznie (draw.io) [**procesem**] 
+(https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2Fprzed_wyborami.xml).
   * A.1.1. podział kraju na okręgi wyborcze
   * A.1.2. podział gmin na obwody wyborcze / podział (gminnych) obwodów wyborczych na okręgi wyborcze
   * A.1.3. powołanie komisji wyborczych (obwodowych / terenowych / okręgowych (rejonowych)
