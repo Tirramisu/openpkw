@@ -49,13 +49,13 @@ i na nieco innych zasadach:
     * B.1.1.1. pobieranie plików *.klk [**przykład plików**] (https://github.com/openpkw/openpkw/tree/master/pliki%20klk)
     * B.1.1.2. generowanie/pobieranie certyfikatów, loginów, haseł, kodów.
     * B.1.1.3. wpisanie danych do formularza / walidacja poprawności - walidacja [**prezydent2015**] (https://github.com/Tirramisu/openpkw/blob/master/walidacja_2015_prezydent.md) ; walidacje [**dotychczasowe**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_podstawy.md)
-    * B.1.1.4. drukowanie "zestawień błędów" / poprawianie protokołu ([**PKW 09.03.2015**] (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md))
+    * B.1.1.4. drukowanie "zestawień błędów" / poprawianie protokołu ([**PKW 09.03.2015 pkt.9.2.**] (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md))
     * B.1.1.5. wysłanie poprawnego protokołu / zapisanie na zewnętrznych nośnikach
     * B.1.1.6. wydruk protokołu - wzory protokołów prezydent 2015: [**Obwodowy**] (http://pkw.gov.pl/g2/oryginal/2015_01/6d4a07c19783328b29a9e28e7be64ba3.pdf) ; [**Okręgowy**] (http://pkw.gov.pl/g2/oryginal/2015_01/0451db43c39dee8e139fd75615fe1af5.pdf) ; [**PKW**] (http://pkw.gov.pl/g2/oryginal/2015_01/b4303675cc97bcc62959ee934c899a50.pdf).
     * B.1.1.7. problem "zwartości" wydrukowanego protokołu 
       * B.1.1.7.1. barkod drukowany na dole każdej  strony - taki sam w całym wydruku [**przykład**] (https://op.openpkw.pl/attachments/6/barkod_przyklad.jpg)
       * B.1.1.7.2. QRkod - przyszłościowa [**propozycja**] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza/blob/master/brainstorming.md) na razie niezgodna z PKW.
-      * B.1.1.7.3. kody jednorazowe ??????? pierwsza informacja pojawia się w Uchwale PKW z 9 marca 2015 patrz [**omówienie**] (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
+      * B.1.1.7.3. kody jednorazowe ??????? pierwsza informacja pojawia się w Uchwale PKW z 9 marca 2015 patrz [**PKW 09.03.2015 pkt.4.**] (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
 
 * B.1.2. oprogramowanie serwerowe
      * B.1.2.1. odbiór danych w noc wyborczą z Komisji Wyborczych
