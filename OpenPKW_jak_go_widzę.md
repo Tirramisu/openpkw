@@ -3,7 +3,7 @@
 Założenie podstawowe - cały system **MUSI** być zgodny z odpowiednimi przepisami polskiego prawa wyborczego:
 * Kodeks Wyborczy  
 * Aktualnymi Uchwałami PKW  
-*  
+* Inne ustawy / rozporządzenia dotyczące procedur wyborczych i "okołowyborczych" 
 
 
 Cały system powinien składać się z 2 głównych modułów/działów/zadań:
@@ -17,7 +17,7 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
 # Ad. A.
 * A.1. zbieranie i przetwarzanie danych przed wyborczych zgodnie z przedstawionym graficznie (draw.io) [**procesem**] (https://raw.githubusercontent.com/openpkw/openpkw/master/dokumentacja/procesy/przed_wyborami.xml).
   * A.1.1. podział kraju na okręgi wyborcze
-  * A.1.2. podział gmin na obwody wyborcze / podział obwodów wyborczych na okręgi wyborcze
+  * A.1.2. podział gmin na obwody wyborcze / podział (gminnych) obwodów wyborczych na okręgi wyborcze
   * A.1.3. powołanie komisji wyborczych (obwodowych / terenowych / okręgowych (rejonowych)
   * A.1.4. tworzenie / rejestracja komitetów wyborczych (komitet wyborczy wyborców; komitet wyborczy partii politycznej; komitet wyborczy koalicji partii politycznych)
   * A.1.5. zgłaszanie / rejestracja kandydatów
@@ -28,6 +28,7 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
    * A.2.2. PKW generuje protokół zbiorczy na podstawie protokołów Okręgowych Komisji.
 * A.3. stała/aktualna wizualizacja bieżącej akcji wyborczej
 * A.4. stały dostęp do danych archiwalnych (zakończone akcje wyborcze i ich wizualizacje). Struktura bazy [**archiwalnej PKW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/bazaKBW.md)
+   * A.4.2.    
 
 # Ad. B.
 
