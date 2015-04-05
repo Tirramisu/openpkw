@@ -68,6 +68,7 @@ i na nieco innych zasadach:
    * B.2.2. odbiór danych w noc wyborczą z Komisji Wyborczych. (symultanicznie z B.1.2.1.)
  
 # Ad.B.3.
+Oprorogramowanie nie będzie w całości zgodne z PKW.  
 
 * B.3.1. program mobilny (co najmniej Android i IOS) umożliwiający szybkie przekazanie cześci danych liczbowych z protokołu. (draw.io) [**przykład**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadamkowalewski%2FOtwartaPlatformaWyborcza%2Fmaster%2Fpaper%2520browser%2FOPW_client.xml)  
     * B.3.1.1. implementacja możliwości przesłania danych SMS ze starszych modeli telefonów.
