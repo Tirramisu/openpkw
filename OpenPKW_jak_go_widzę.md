@@ -69,7 +69,7 @@ i na nieco innych zasadach:
  
 # Ad.B.3.
 
-* B.3.1. program mobilny (co najmniej Android i IOS) umożliwiający szybkie przekazanie cześci danych liczbowych z protokołu.
+* B.3.1. program mobilny (co najmniej Android i IOS) umożliwiający szybkie przekazanie cześci danych liczbowych z protokołu. (draw.io) [**przykład**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadamkowalewski%2FOtwartaPlatformaWyborcza%2Fmaster%2Fpaper%2520browser%2FOPW_client.xml)  
     * B.3.1.1. implementacja możliwości przesłania danych SMS ze starszych modeli telefonów.
 * B.3.2. oprogramowanie serwerowe 
     * przetworzenie danych, ich agregacja i udostępnienie danych zbiorczych/wizualizacja.
