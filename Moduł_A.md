@@ -1,7 +1,7 @@
 Opracowano na podstawie analizy dokumentów przetargowych (SIWZ) ogłoszonych przez PKW/KBW w roku 2013/2014
 
  - Warszawa 28 listopada 2013 r. [BZP 256435 - 2013] (http://pkw.gov.pl/g2/oryginal/2013_11/ed6f8a634e61444a45f9468cb426609a.pdf)  
-**Zaprojektowanie, wykonanie, wdrożenie kompleksowego systemu informatycznego Platforma Wyborcza 2.0 (PW2) wraz z administrowaniem, utrzymaniem, rozbudową i modyfikacją systemu.**  
+Specyfikacja istotnych warunków zamówienia na **"Zaprojektowanie, wykonanie, wdrożenie kompleksowego systemu informatycznego Platforma Wyborcza 2.0 (PW2) wraz z administrowaniem, utrzymaniem, rozbudową i modyfikacją systemu."**  
 Ogłoszenie zostało wysłane do Biuletynu Zamówień Publicznych z numerem 256435-2013 z dnia 28.11.2013.  
 Wynik przetargu: [**unieważniony.**] (http://pkw.gov.pl/g2/oryginal/2014_03/8232e01e114bbef1c2f131639dfa4412.pdf)   
 
