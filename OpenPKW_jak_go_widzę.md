@@ -23,8 +23,9 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
   * A.1.3. powołanie komisji wyborczych (obwodowych / terenowych / okręgowych (rejonowych)
   * A.1.4. tworzenie / rejestracja komitetów wyborczych (komitet wyborczy wyborców; komitet wyborczy partii politycznej; komitet wyborczy koalicji partii politycznych)
   * A.1.5. zgłaszanie / rejestracja kandydatów
-  * A.1.6. tworzenie karty wyborczej
-  * A.1.7. baza danych (wzorów) dokumentów wyborczych
+  * A.1.6. [**spis wyborców**] (http://info.pkw.gov.pl/spis-wyborcow-pe/spis-wyborcow.html) uprawnionych do głosowania ([**rejestr wyborców**] (http://info.pkw.gov.pl/rejestr-wyborcow-pe/rejestr-wyborcow.html) / [**stałe zamieszkiwanie**] (http://info.pkw.gov.pl/stale-zamieszkiwanie-pe/stale-zamieszkanie.html))
+  * A.1.7. stworzenie wzoru karty wyborczej
+  * A.1.8. baza danych (wzorów) dokumentów wyborczych
 * A.2. odebranie danych w noc wyborczą z komisji obwodowych, przetworzenie i przygotowanie do pobrania przez komisje wyborcze wyższego rzędu, przyjęcie danych w komisji wyższego rzędu, przetworzenie i przygotowanie danych dla PKW.
    * A.2.1. Komisje wyższego rzędu generują protokół na podstawie danych z Obwodowych Komisji.
    * A.2.2. PKW generuje protokół zbiorczy na podstawie protokołów Okręgowych Komisji.
