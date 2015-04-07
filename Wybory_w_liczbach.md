@@ -25,6 +25,20 @@ Dokładniejsze informacje o rodzajach komisji wyborczych [TUTAJ](https://github.
 | *Razem*                                                | 25.773              |
 
 
+
+# Wybory prezydenckie - 2015
+
+| Komisja                                                |              Liczba |
+|--------------------------------------------------------|--------------------:|
+| Okręgowa Komisja Wyborcza                              |                  [**51**] (http://prezydent2015.pkw.gov.pl/akty_prawne/0/53_UCHWALA__PANSTWOWEJ_KOMISJI_WYBORCZEJ__z_dnia_26_stycznia_2015_r__w_sprawie_okreslenia_wlasciwosci_miejscowej_numerow_oraz_siedzib_okregowych_komisji_wyborczych_w_wyborach_Prezydenta_Rzeczypospolitej_Polskiej_w_2015_r) |
+| Obwodowa Komisja Wyborcza (Polska) - powszechne        |              **27.435** |
+| Obwodowa Komisja Wyborcza (Polska) - odrębne           |               ????? |
+| Obwodowa Komisja Wyborcza (zagranica stałe)            | ???                 |
+| Obwodowa Komisja Wyborcza (statki)                     | ?                   |
+| *Razem*                                                | ??????              |
+
+
+
 ## Wybory do Sejmu - 2011
 
 | Komisja                                         |              Liczba |
