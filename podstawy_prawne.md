@@ -3,21 +3,20 @@
 
 1) ustawa z dnia 5 stycznia 2011 r. – Kodeks wyborczy ([**Dz. U. Nr 21, poz. 112 z 2011 r.**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20110210112))  
 
-2) ustawa z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy ([**Dz. U. Nr 41, poz. 361 z 202 r.**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20020410361))  
+2) ustawa z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy ([**Dz. U. Nr 41, poz. 361 z 2002 r.**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20020410361))  
 
-3) ustawa z dnia 8 marca 1990 r. o samorządzie gminnym ([**tj. Dz. U. z 2013 r. poz. 594**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000594&min=1)).
+3) ustawa z dnia 8 marca 1990 r. o samorządzie gminnym ([**t.j. Dz. U. z 2013 r. poz. 594**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000594&min=1)).
 
-4) ustawa z dnia 5 czerwca 1998 r. o samorządzie powiatowym ([**Dz. U. z 2013 r. poz. 595**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000595&min=1)),
+4) ustawa z dnia 5 czerwca 1998 r. o samorządzie powiatowym ([**t.j. Dz. U. z 2013 r. poz. 595**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000595&min=1)),
 
-5) ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa ([**Dz. U. z 2013 r. poz. 596**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000596&min=1)),
+5) ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa ([**t.j. Dz. U. z 2013 r. poz. 596**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000596&min=1)),
 
 6) ustawa z dnia 5 stycznia 2011 r. - Przepisy wprowadzające ustawę - Kodeks wyborczy ([**Dz. U. Nr 21, poz. 113**]  (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20110210113))
 
 # II. Ustawy inne:
-1) ustawa z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz.U. z 2013 r., poz. 235 i z 2014 r., poz. 183),  
+1) ustawa z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([**t.j. Dz.U. z 2014 r., poz. 1114**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20140001114)),  
 
-2) ustawa z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r., Nr 101, poz. 926 z późn. zm.  
-Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238, z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497 oraz z 2011 r. Nr 230, poz. 1371)  
+2) ustawa z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([**t.j. Dz. U. z 2014 r. poz. 1182**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20140001182))  
 
 # III. Rozporządzenia:
 1) rozporządzenie Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych (Dz.U. Nr 526),  
