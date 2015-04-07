@@ -1,20 +1,17 @@
 # I. Ustawy związane bezpośrednio z wyborami i referendami:
+(linki prowadzą do tekstu źródłowego wraz z późn. zmianami - aktualne)
 
-1) ustawa z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112 z późn. zm.  
-Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.  
+1) ustawa z dnia 5 stycznia 2011 r. – Kodeks wyborczy ([**Dz. U. Nr 21, poz. 112 z 2011 r.**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20110210112))  
 
-2) ustawa z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361 z późn. zm.),  
-Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz .1087, z 2006 r. Nr 249, poz. 1826 i Nr 249, poz. 1828, z 2009 r. Nr 95, poz. 787 oraz z 2011 r., Nr 21, poz.113.
+2) ustawa z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy ([**Dz. U. Nr 41, poz. 361 z 202 r.**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20020410361))  
 
-3) ustawa z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594 z późn. zm.) – w zakresie wyborów do Rady m.st. Warszawy i do rad dzielnic,  
-Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r., poz. 645 i 1318 oraz z 2014 r., poz. 379.
+3) ustawa z dnia 8 marca 1990 r. o samorządzie gminnym ([**tj. Dz. U. z 2013 r. poz. 594**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000594&min=1)).
 
-4) ustawa z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2013 r. poz. 595 i poz. 645 oraz z 2014 r., poz. 379),
+4) ustawa z dnia 5 czerwca 1998 r. o samorządzie powiatowym ([**Dz. U. z 2013 r. poz. 595**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000595&min=1)),
 
-5) ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2013 r. poz. 596 i poz. 645 oraz z 2014 r., poz. 379),
+5) ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa ([**Dz. U. z 2013 r. poz. 596**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000596&min=1)),
 
-6) ustawa z dnia 5 stycznia 2011 r. - Przepisy wprowadzające ustawę - Kodeks wyborczy (Dz. U. Nr 21, poz. 113 z późn. zm.  
-Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 588, Nr 147, poz. 881 i Nr 149, poz. 889 oraz z 2012 r. poz. 1399 
+6) ustawa z dnia 5 stycznia 2011 r. - Przepisy wprowadzające ustawę - Kodeks wyborczy ([**Dz. U. Nr 21, poz. 113**]  (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20110210113))
 
 # II. Ustawy inne:
 1) ustawa z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz.U. z 2013 r., poz. 235 i z 2014 r., poz. 183),  
@@ -91,3 +88,7 @@ do Parlamentu Europejskiego w 2014 r.,
 7) projekt uchwały Państwowej Komisji Wyborczej w sprawie wytycznych dla rejonowych i okręgowych komisji wyborczych, dotyczących trybu i sposobu wykonywania zadań związanych z ustalaniem wyników głosowania w wyborach do Parlamentu Europejskiego.  
 
 # VII. W zakresie referendów ogólnokrajowych
+
+# VII. W zakresie referendów lokalnych
+
+http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000706&min=1
