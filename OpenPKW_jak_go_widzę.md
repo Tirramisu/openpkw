@@ -1,11 +1,13 @@
 #openPKW
 
-Założenie podstawowe - cały system **MUSI** być zgodny z odpowiednimi przepisami [**polskiego prawa wyborczego**] (https://github.com/Tirramisu/openpkw/blob/master/podstawy_prawne.md), a szczególnie:
-* Kodeks Wyborczy  
-* Aktualnymi Uchwałami PKW  
-* Inne ustawy / rozporządzenia dotyczące procedur wyborczych i "okołowyborczych" 
+Założenie podstawowe
+- cały system **MUSI** być zgodny z odpowiednimi przepisami [**polskiego prawa wyborczego**] (https://github.com/Tirramisu/openpkw/blob/master/podstawy_prawne.md), a szczególnie:
+  * Kodeks Wyborczy  
+  * Inne ustawy / rozporządzenia dotyczące procedur wyborczych i "okołowyborczych"  
+  * Aktualne Uchwały PKW.  
 
-
+- cały system **MUSI** wytrzymać ruch generowany przez wszystkie organy i instytucje wyborcze zaangażowane w daną akcję wyborczą. W tym - **najważniejsze** - generowany przez Obwodowe Komisje Wyborcze w noc wyborczą. Ważną rzeczą wydaje się więc obliczenie pożądanych mocy obliczeniowych, przepustowości łączy internetowych, dostępu do baz danych itp. Skalowalność systemu. Obsługa wielu różnych akcji wyborczych w tym samym czasie. Co najmniej dwa równorzędne (symetryczne/symultaniczne) centra zbierania danych.  
+[**Przykładowe liczby wyborcze.**] (https://github.com/Tirramisu/openpkw/blob/master/Modu%C5%82_A.md)  
 
 Na podstawie materiałów z ogłoszonych przez PKW [**przetargów**] (https://github.com/Tirramisu/openpkw/blob/master/SIWZ_przetargi_2013_2014.md) na "informatyzację wyborów" IMO cały system powinien składać się z 2 głównych modułów/działów/zadań:
 
