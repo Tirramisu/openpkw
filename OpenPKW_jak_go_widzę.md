@@ -15,7 +15,7 @@ Na podstawie materiałów z ogłoszonych przez PKW [**przetargów**] (https://gi
 Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szczebli i rodzajów oraz z funkcjonalności oprogramowania i baz danych wykorzystywanych w procesie przygotowania i przeprowadzenia wyborów oraz agregacji i ogłoszenia wyników wyborów.
 
 
-# Ad. A.
+# Ad. A.  
 * A.1. zbieranie i przetwarzanie danych przed wyborczych zgodnie z przedstawionym graficznie (draw.io) [**procesem**] 
 (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2Fprzed_wyborami.xml).
   * A.1.1. podział kraju na okręgi wyborcze
@@ -32,6 +32,8 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
 * A.3. stała/aktualna wizualizacja bieżącej akcji wyborczej
 * A.4. stały dostęp do danych archiwalnych (zakończone akcje wyborcze i ich wizualizacje). Struktura bazy [**archiwalnej PKW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/bazaKBW.md)
    * A.4.2.    
+
+Podział zadania A na [**moduły programistyczne**] (https://github.com/Tirramisu/openpkw/blob/master/Modu%C5%82_A.md).
 
 # Ad. B.
 
