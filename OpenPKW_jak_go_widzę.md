@@ -1,12 +1,13 @@
 #openPKW
 
-Założenie podstawowe - cały system **MUSI** być zgodny z odpowiednimi przepisami polskiego prawa wyborczego:
+Założenie podstawowe - cały system **MUSI** być zgodny z odpowiednimi przepisami [**polskiego prawa wyborczego**] (https://github.com/Tirramisu/openpkw/blob/master/podstawy_prawne.md), a szczególnie:
 * Kodeks Wyborczy  
 * Aktualnymi Uchwałami PKW  
 * Inne ustawy / rozporządzenia dotyczące procedur wyborczych i "okołowyborczych" 
 
 
-Cały system powinien składać się z 2 głównych modułów/działów/zadań:
+
+Na podstawie materiałów z ogłoszonych przez PKW [**przetargów**] (https://github.com/Tirramisu/openpkw/blob/master/SIWZ_przetargi_2013_2014.md) na "informatyzację wyborów" IMO cały system powinien składać się z 2 głównych modułów/działów/zadań:
 
 # A. Platforma Wyborcza  
 # B. Kalkulator wyborczy  
