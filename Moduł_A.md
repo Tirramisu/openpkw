@@ -38,6 +38,8 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
   - Rodzaje obwodów (słownik)
     - stałe
       - w kraju
+        - dla niepełnosprawnych  
+        - do głosowania korespondencyjnego  
       - za granicą
     - odrębne
       - zakład opieki zdrowotnej,  
