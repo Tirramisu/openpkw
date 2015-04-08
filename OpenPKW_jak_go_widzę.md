@@ -22,7 +22,7 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
 (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2Fprzed_wyborami.xml).
   * A.1.1. podział kraju na okręgi wyborcze
   * A.1.2. podział gmin na obwody wyborcze / podział (gminnych) obwodów wyborczych na okręgi wyborcze
-  * A.1.3. powołanie komisji wyborczych (obwodowych / terenowych / okręgowych (rejonowych)
+  * A.1.3. powołanie komisji wyborczych ([**obwodowych / terenowych / okręgowych (rejonowych**] (https://github.com/Tirramisu/openpkw/blob/master/Struktura_komisji.md))  
   * A.1.4. tworzenie / rejestracja komitetów wyborczych (komitet wyborczy wyborców; komitet wyborczy partii politycznej; komitet wyborczy koalicji partii politycznych)
   * A.1.5. zgłaszanie / rejestracja kandydatów
   * A.1.6. [**spis wyborców**] (http://info.pkw.gov.pl/spis-wyborcow-pe/spis-wyborcow.html) uprawnionych do głosowania ([**rejestr wyborców**] (http://info.pkw.gov.pl/rejestr-wyborcow-pe/rejestr-wyborcow.html) / [**stałe zamieszkiwanie**] (http://info.pkw.gov.pl/stale-zamieszkiwanie-pe/stale-zamieszkanie.html))
