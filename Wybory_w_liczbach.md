@@ -1,6 +1,6 @@
 Wszystkie dane na podstawie oficjalnych danych PKW ([pkw.gov.pl](http://www.pkw.gov.pl))
 
-Dokładniejsze informacje o rodzajach komisji wyborczych [TUTAJ](https://github.com/openpkw/openpkw/wiki/Struktura-komisji-wyborczych)
+Dokładniejsze informacje o rodzajach komisji wyborczych [TUTAJ](https://github.com/Tirramisu/openpkw/blob/master/Struktura_komisji.md)
 
 ## Referendum ogólnopolskie - 2003
 
@@ -134,7 +134,7 @@ _(zależy od ilości okręgów jednomandatowych "obsługiwanych" przez OKW. Moż
    * sporządza 1 protokół Rady Powiatu
    * sporządza 1 protokół Sejmik Wojewódzki
 
-(_w przypadku OKW odrębnego - jest możliwość sporządzenie mniejszej ilości protokołów o ile nie ma tam uprawnionych do głosowania na którąś z powyższych rad lub wójt/burmistrz/prezydent_)
+_(w przypadku OKW odrębnego - jest możliwość sporządzenie mniejszej ilości protokołów o ile nie ma tam uprawnionych do głosowania na którąś z powyższych rad lub wójt/burmistrz/prezydent)_
 
 * RAZEM OKW w 2014 - 27.435
 * RAZEM członków wszystkich komisji wyborczych - 274.401
