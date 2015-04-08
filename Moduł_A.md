@@ -49,9 +49,8 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
     - komitet wyborczy partii politycznej (patrz 1.)
     - komitet wyborczy koalicji partii politycznych (patrz 1.)
     - komitet wyborczy wyborców
-  - funkcje w komitecie wyborczym (słownik)  
+  - funkcje w komitecie wyborczym (słownik)
     - pełnomocnik finansowy
-    - 
  6. Komisje wyborcze (składy osobowe, pełnione funkcje)  
   - funkcje (słownik)  
   - delegowany przez komitet wyborczy (słownik patrz 5.)
