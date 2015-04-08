@@ -1,4 +1,4 @@
-# I. Ustawy związane bezpośrednio z wyborami i referendami:
+# I. Ustawy związane bezpośrednio z wyborami i referendami
 (linki prowadzą do tekstu źródłowego wraz z późn. zmianami - aktualne)
 
 1) ustawa z dnia 5 stycznia 2011 r. – Kodeks wyborczy ([**Dz. U. Nr 21, poz. 112 z 2011 r.**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20110210112))  
@@ -18,12 +18,14 @@
 
 2) ustawa z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([**t.j. Dz. U. z 2014 r. poz. 1182**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20140001182))  
 
-# Dyrektywy europejskie:
+# Dyrektywy europejskie
+
 1) DYREKTYWA RADY 94/80/WE z dnia 19 grudnia 1994 r. ustanawiająca szczegółowe zasady korzystania z prawa głosowania i kandydowania w wyborach lokalnych przez obywateli Unii zamieszkałych w Państwie Członkowskim, którego nie są obywatelami. ([**31994L0080**] (http://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX:31994L0080))
 
 2) DYREKTYWA RADY 93/109/WE z dnia 6 grudnia 1993 r. ustanawiająca szczegółowe warunki wykonywania prawa głosowania i kandydowania w wyborach do Parlamentu Europejskiego przez obywateli Unii mających miejsce zamieszkania w Państwie Członkowskim, którego nie są obywatelami ([**31993L0109**] (http://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX:31993L0109))
 
-# III. Rozporządzenia:
+# III. Rozporządzenia
+
 1) rozporządzenie Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych (Dz.U. Nr 526),  
 
 2) rozporządzenie Prezesa Rady Ministrów z dnia 14 września 2011 r. w sprawie sporządzania pism w formie dokumentów elektronicznych, doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych (Dz.U. Nr 206, poz. 1216 i z 2014 r., poz. 590),  
@@ -39,7 +41,7 @@ służące do przetwarzania danych osobowych (Dz.U. Nr 100, poz. 1024),
 7) rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie sposobu zgłaszania kandydatów do obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz powoływania komisji (Dz. U. Nr 74,
 poz. 671 i Nr 80, poz. 730 oraz z 2011 r. Nr 17, poz. 86).  
 
-# IV. W zakresie wyborów samorządowych (ogólnopolskich):
+# IV. W zakresie wyborów samorządowych
 
 1) uchwała Państwowej Komisji Wyborczej z dnia 22 września 2014 r. w sprawie określenia warunków i sposobu wykorzystania techniki elektronicznej w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m. st. Warszawy oraz w
 wyborach wójtów, burmistrzów i prezydentów miast (skierowana do publikacji w Monitorze Polskim),  
