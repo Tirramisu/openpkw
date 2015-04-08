@@ -45,9 +45,9 @@ Podział zadania A na [**moduły programistyczne**] (https://github.com/Tirramis
 
 oba punkty zgodne z przedstawionym graficznie (draw.io) [**procesem**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa%2520komisja%2520wyborcza.xml)  
 
-i na nieco innych zasadach:  
+i na nieco innych zasadach (nie będzie zgodności z zasadami PKW):  
 
-* B.3. oprogramowanie mobilne (np. wykorzystywane przez różnorodne organizacje do sprawdzania poprawności wyborów)
+* B.3. oprogramowania mobilne (np. wykorzystywane przez różnorodne organizacje do sprawdzania poprawności wyborów, zdjęcia protokołów, przekazanie części danych do obliczenia wyników)
 
 # Ad. B.1. 
 
@@ -76,8 +76,9 @@ i na nieco innych zasadach:
 # Ad.B.3.
 Oprorogramowanie nie będzie w całości zgodne z PKW.  
 
-* B.3.1. program mobilny (co najmniej Android i IOS) umożliwiający szybkie przekazanie cześci danych liczbowych z protokołu. (draw.io) [**przykład**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadamkowalewski%2FOtwartaPlatformaWyborcza%2Fmaster%2Fpaper%2520browser%2FOPW_client.xml)  
+* B.3.1. aplikacja mobilna (co najmniej Android i IOS) umożliwiający szybkie przekazanie cześci danych liczbowych z protokołu. (draw.io) [**przykład**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadamkowalewski%2FOtwartaPlatformaWyborcza%2Fmaster%2Fpaper%2520browser%2FOPW_client.xml)  
     * B.3.1.1. implementacja możliwości przesłania danych SMS ze starszych modeli telefonów.
-* B.3.2. oprogramowanie serwerowe 
+* B.3.2. aplikacja mobilna do dodatkowej weryfikacji danych liczbowych przekazanych z protokołów w postaci zdjęć samych protokołów (Rafał Reguła).  
+* B.3.3. oprogramowanie serwerowe 
     * przetworzenie danych, ich agregacja i udostępnienie danych zbiorczych/wizualizacja.
 
