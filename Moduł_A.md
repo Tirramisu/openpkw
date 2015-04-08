@@ -26,11 +26,15 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
 **Moduł A.9.** Moduł zarządczy (??) dla administratorów całości systemu.
 
 # Bazy danych  
+
  1. Rejestr partii politycznych w Polsce  
+
  2. Stały rejestr wyborców (prowadzony przez gminy - wymiana danych między gminami poprzez moduł centralny)  
- 2. Okręgi wyborcze (Polska) (wszystkie akcje wyborcze ? )  
+
+ 3. Okręgi wyborcze (Polska) (wszystkie akcje wyborcze ? )  
   - Akcje wyborcze (słownik)
- 3. Obwody wyborcze (gminy)  
+
+ 4. Obwody wyborcze (gminy)  
   - Rodzaje obwodów (słownik)
     - stałe
       - w kraju
@@ -43,21 +47,29 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
       - oddział zewnętrznym zakładu karnego i aresztu  
       - dom studenta lub zespół domów studenta   
       - polskie statki morskie  
- 4. Okręgi wyborcze (gminy - tylko wybory samorządowe)  
- 5. Komitety wyborcze (składy osobowe, pełnione funkcje, decyzje o zgłoszeniu, zarejestrowaniu, losowaniu nr)  
+
+ 5. Okręgi wyborcze (gminy - tylko wybory samorządowe)  
+
+ 6. Komitety wyborcze (składy osobowe, pełnione funkcje, decyzje o zgłoszeniu, zarejestrowaniu, losowaniu nr)  
   - rodzaje komitetów wyborczych (słownik)
     - komitet wyborczy partii politycznej (patrz 1.)
     - komitet wyborczy koalicji partii politycznych (patrz 1.)
     - komitet wyborczy wyborców
   - funkcje w komitecie wyborczym (słownik)
-    - pełnomocnik finansowy
- 6. Komisje wyborcze (składy osobowe, pełnione funkcje)  
+    - pełnomocnik finansowy  
+
+ 7. Komisje wyborcze (składy osobowe, pełnione funkcje)  
   - funkcje (słownik)  
   - delegowany przez komitet wyborczy (słownik patrz 5.)
- 7. Listy kandydatów i kandydaci (wszystkie akcje wyborcze ? )  
+
+ 8. Listy kandydatów i kandydaci (wszystkie akcje wyborcze ? )  
   -  Stanowiska wybieralne (słownik)  
   -  Akcje wyborcze (słownik patrz 3.)
+
  9. Frekwencja
-  - godz. frekwencji (słownik)
-10. Wyniki głosowania (dane z kalkulatora)
-11. 
+  - godz. frekwencji (słownik)  
+  - ....  
+
+ 10. Wyniki głosowania (dane z kalkulatora)  
+
+ 11.   
