@@ -1,4 +1,4 @@
-**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Sytem_OpenPKW.md) w głównym repozytorium.
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) w głównym repozytorium.
 
 #openPKW
 
@@ -84,4 +84,4 @@ Oprorogramowanie nie będzie w całości zgodne z PKW.
 * B.3.3. oprogramowanie serwerowe 
     * przetworzenie danych, ich agregacja i udostępnienie danych zbiorczych/wizualizacja.
 
-**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Sytem_OpenPKW.md) w głównym repozytorium.
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) w głównym repozytorium.
