@@ -1,4 +1,4 @@
-**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/zmiana_filozofii_PKW.md) w głównym repozytorium.
 
 
 Sporządzone na podstawie Wytycznych PKW dla Obwodowych Komisji Wyborczych. 
@@ -387,4 +387,4 @@ podpisem przewodniczącego (zastępcy przewodniczącego) komisji obwodowej i dop
 Przy tych czynnościach mogą być obecni wszyscy członkowie komisji, mężowie zaufania i obserwatorzy międzynarodowi.   
 
 
-**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/zmiana_filozofii_PKW.md) w głównym repozytorium.
