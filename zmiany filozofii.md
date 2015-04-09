@@ -1,3 +1,6 @@
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
+
+
 Sporządzone na podstawie Wytycznych PKW dla Obwodowych Komisji Wyborczych. 
 (Uchwała PKW z 09.03.2015 r.)
 
@@ -382,3 +385,6 @@ protokołu głosowania przesłanego do okręgowej komisji wyborczej, którą, po
 głosowania przekazaną przez obwodową komisję wyborczą, opatruje się odręczną adnotacją „sprawdzono i przesłano” oraz 
 podpisem przewodniczącego (zastępcy przewodniczącego) komisji obwodowej i dopina do koperty z oryginałem protokołu.  
 Przy tych czynnościach mogą być obecni wszyscy członkowie komisji, mężowie zaufania i obserwatorzy międzynarodowi.   
+
+
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
