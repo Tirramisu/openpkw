@@ -1,4 +1,4 @@
-**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_prezydent_2015.md) w głównym repozytorium.
 
 
 Sporządzone na podstawie Wytycznych PKW dla okręgowych komisji wyborczych w wyborach Prezydenta 2015 r.  
@@ -70,4 +70,4 @@ liczby kart do głosowania wydanych wyborcom;
 14)	liczba kart ważnych wyjętych z urny nie powinna być większa od liczby wyborców uprawnionych do głosowania.  
 
 
-**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_prezydent_2015.md) w głównym repozytorium.
