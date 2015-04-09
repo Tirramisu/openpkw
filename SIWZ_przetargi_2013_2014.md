@@ -1,3 +1,5 @@
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
+
 #Przetargi PKW z lat 2013 / 2014
 
  - Warszawa 28 listopada 2013 r. [BZP 256435 - 2013] (http://pkw.gov.pl/g2/oryginal/2013_11/ed6f8a634e61444a45f9468cb426609a.pdf)  
@@ -33,3 +35,4 @@ Ogłoszenie zostało wysłane do Biuletynu Zamówień Publicznych z numerem 3499
 Wynik przetargu: [**oferty firm: Nabino Sp z o.o. oraz Pixel Sp. z o.o. zostały odrzucone**] (http://pkw.gov.pl/g2/oryginal/2015_01/b98b5db9e30ed8013299511ef46e930b.pdf)  
 
 
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
