@@ -1,5 +1,6 @@
 **PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modu%C5%82_A_OpenPKW.md) w głównym repozytorium.
 
+
 Opracowano na podstawie analizy dokumentów przetargowych ([**SIWZ**] (https://github.com/Tirramisu/openpkw/blob/master/SIWZ_przetargi_2013_2014.md)) ogłoszonych przez PKW/KBW w roku 2013/2014
 
 **Bardzo proszę o krytyczne spojrzenie. Czy taki podział na moduły jest odpowiedni pod wzgldem programistycznym. Czy nie trzeba wydzielic jakiś innych modułów. Czy bazy danych będą współpracować (wymiana danych) w ramach modułów i pomiędzy nimi itp itd.**
@@ -79,4 +80,4 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
  11.   
 
 
-**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modu%C5%82_A_OpenPKW.md) w głównym repozytorium.
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modul_A_OpenPKW.md) w głównym repozytorium.
