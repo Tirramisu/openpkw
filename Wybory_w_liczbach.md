@@ -1,4 +1,4 @@
-**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] https://github.com/openpkw/openpkw/blob/master/dokumentacja/Wybory_statystyka.md) w głównym repozytorium.
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Wybory_statystyka.md) w głównym repozytorium.
 
 Wszystkie dane na podstawie oficjalnych danych PKW ([pkw.gov.pl](http://www.pkw.gov.pl))
 
