@@ -1,3 +1,5 @@
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
+
 # Struktura komisji wyborczych
 
 Organami wyborczymi powoływanymi w związku z zarządzonymi wyborami są odpowiednio:
@@ -46,3 +48,6 @@ Komisja podaje do publicznej wiadomości, w sposób zwyczajowo przyjęty, inform
 WARSZAWA wymaga osobnego omówienia - inna ustawa reguluje wybory w mieście
 * 18 Dzielnicowych Komisji Wyborczych
 * ponad 1000 OKW (?)
+
+
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
