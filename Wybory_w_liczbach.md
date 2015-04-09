@@ -1,3 +1,5 @@
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
+
 Wszystkie dane na podstawie oficjalnych danych PKW ([pkw.gov.pl](http://www.pkw.gov.pl))
 
 Dokładniejsze informacje o rodzajach komisji wyborczych [TUTAJ](https://github.com/Tirramisu/openpkw/blob/master/Struktura_komisji.md)
@@ -161,3 +163,6 @@ Państwowa Komisja Wyborcza przyjęła zawiadomienia o utworzeniu 33 komitetów 
 Komisarze wyborczy przyjęli zawiadomienia o utworzeniu 12 515 komitetów wyborczych, z tego:
 * a)  komitety wyborcze stowarzyszeń i organizacji społ. - 437
 * b)  komitety wyborcze wyborców - 12 078
+
+
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
