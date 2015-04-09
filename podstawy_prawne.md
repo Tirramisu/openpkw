@@ -1,3 +1,6 @@
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
+
+
 # I. Ustawy związane bezpośrednio z wyborami i referendami
 (linki prowadzą do tekstu źródłowego wraz z późn. zmianami - aktualne)
 
@@ -154,3 +157,7 @@ do Parlamentu Europejskiego w 2014 r.,
 # VII. W zakresie referendów lokalnych
 
 http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000706&min=1
+
+
+
+**PLIK ZAMKNIĘTY** - zmiany i propozycję proszę nanosić w tym [**dokumencie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) w głównym repozytorium.
